@@ -1,0 +1,146 @@
+[
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/activity_digital_config.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/layout/activity_digital_config.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/fragment_todo_item.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/layout/fragment_todo_item.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/color_picker_item.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/layout/color_picker_item.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/daily_total_round_activity_main.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/layout/daily_total_round_activity_main.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/activity_daily_step_counter.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/layout/activity_daily_step_counter.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/action_drawer_item_view.xml",
+        "source": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/layout/action_drawer_item_view.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/activity_todo_main.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/layout/activity_todo_main.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/color_picker_item.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/layout/color_picker_item.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/daily_total_activity_main.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/layout/daily_total_activity_main.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/error_layout.xml",
+        "source": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/layout/error_layout.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/navigation_drawer_item_view.xml",
+        "source": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/layout/navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/activity_on_this_day.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/layout/activity_on_this_day.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/wearable_drawer_view.xml",
+        "source": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/layout/wearable_drawer_view.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/wearable_drawer_view.xml",
+        "source": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/layout/wearable_drawer_view.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/activity_on_this_day.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/layout/activity_on_this_day.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/daily_total_rect_activity_main.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/layout/daily_total_rect_activity_main.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/error_layout.xml",
+        "source": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/layout/error_layout.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/daily_total_activity_main.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/layout/daily_total_activity_main.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/fragment_todo_item.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/layout/fragment_todo_item.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/activity_digital_config.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/layout/activity_digital_config.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/navigation_drawer_item_view.xml",
+        "source": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/layout/navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/overlay_confirmation.xml",
+        "source": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/layout/overlay_confirmation.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/action_drawer_item_view.xml",
+        "source": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/layout/action_drawer_item_view.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/activity_todo_main.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/layout/activity_todo_main.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/overlay_confirmation.xml",
+        "source": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/layout/overlay_confirmation.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/activity_day_of_year.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/layout/activity_day_of_year.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/layout/daily_total_rect_activity_main.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/layout/daily_total_rect_activity_main.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/activity_day_of_year.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/layout/activity_day_of_year.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/daily_total_round_activity_main.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/layout/daily_total_round_activity_main.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/alert_dialog_wearable.xml",
+        "source": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/layout/alert_dialog_wearable.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/layout/activity_daily_step_counter.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/layout/activity_daily_step_counter.xml"
+    }
+]

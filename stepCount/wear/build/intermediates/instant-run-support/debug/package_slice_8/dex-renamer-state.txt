@@ -1,0 +1,4 @@
+#Wed Jan 31 18:52:37 JST 2018
+base.0=/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex

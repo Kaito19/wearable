@@ -1,0 +1,7 @@
+#Wed Jan 31 18:52:37 JST 2018
+base.0=/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e8015c88e1d09bb4d52a89372e4a1c15a103fd47
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7fc44112c753d3d1ae8726147225ffa79ccb4c7b/classes.dex
+base.1=/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7fc44112c753d3d1ae8726147225ffa79ccb4c7b
+file.0=/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e8015c88e1d09bb4d52a89372e4a1c15a103fd47/classes.dex

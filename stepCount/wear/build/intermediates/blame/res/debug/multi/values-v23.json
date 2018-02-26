@@ -1,0 +1,96 @@
+[
+    {
+        "outputFile": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 624
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 5,
+                    "endColumn": 12,
+                    "endOffset": 236
+                },
+                "from": {
+                    "file": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 255,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 241,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "/Users/Kaito/.android/build-cache/e4f9af91eed6df9b7093975649f9012ee73283cf/output/res/values-v23/values-v23.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 624
+                    }
+                }
+            }
+        ]
+    }
+]

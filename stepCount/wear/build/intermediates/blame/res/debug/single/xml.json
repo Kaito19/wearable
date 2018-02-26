@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/build/intermediates/res/merged/debug/xml/watch_face.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/永井＿ウェアラブルアプリ/wear/src/main/res/xml/watch_face.xml"
+    },
+    {
+        "merged": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/build/intermediates/res/merged/debug/xml/watch_face.xml",
+        "source": "/Users/Kaito/大学課題/研究/mastering-android-wear-master/Chapter_11/Today/wear/src/main/res/xml/watch_face.xml"
+    }
+]
